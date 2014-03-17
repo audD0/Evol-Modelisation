@@ -1,0 +1,1 @@
+The aim of this project is to learn how to use github and to learn how to model biological systems.
